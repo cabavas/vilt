@@ -1,8 +1,5 @@
 <template>
-    <div>Show Vue</div>
-    <Link href="/">Show Page</Link>
+        <div>Show</div>
 </template>
 
-<script setup>
-import { Link } from "@inertiajs/vue3";
-</script>
+<script setup/>

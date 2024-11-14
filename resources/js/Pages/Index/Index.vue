@@ -1,8 +1,5 @@
 <template>
-    <div>Index Vue</div>
-    <Link href="/hello">Show Page</Link>
+        <div>Index</div>
 </template>
 
-<script setup>
-import { Link } from "@inertiajs/vue3";
-</script>
+<script setup />
