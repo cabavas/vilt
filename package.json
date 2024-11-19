@@ -7,12 +7,13 @@
         "fix:eslint": "eslint --ext .js,.vue resources/js/ --fix"
     },
     "devDependencies": {
+        "@babel/eslint-parser": "^7.25.9",
         "@tailwindcss/forms": "^0.5.9",
         "@vitejs/plugin-vue": "^5.1.5",
         "autoprefixer": "^10.4.20",
         "axios": "^1.7.4",
         "concurrently": "^9.0.1",
-        "eslint": "^9.14.0",
+        "eslint": "^9.15.0",
         "eslint-plugin-vue": "^9.31.0",
         "laravel-vite-plugin": "^1.0",
         "postcss": "^8.4.49",
